@@ -1,1 +1,1 @@
-# db-capstone-project2
+# database-capstone-project
